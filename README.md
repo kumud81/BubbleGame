@@ -1,0 +1,1 @@
+A fun and interactive web-based game built using HTML, CSS, JavaScript. Players need to hit the right number by clicking on the bubbles while racing against time. The game features dynamic scoring, countdown timer, and engaging visuals for an exciting user experience.
